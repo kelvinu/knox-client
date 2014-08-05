@@ -1,0 +1,9 @@
+{
+  "name": "knox-clientside",
+  "description": "provide knox access for clientside upload to S3 for reduced bandwidth hops",
+  "homepage": "www.kelvinung.com",
+  "author": "Kelvin Ung kelvin@kelvinung.com (http://www.kelvinung.com",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {}
+}
